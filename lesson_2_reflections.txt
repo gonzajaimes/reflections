@@ -11,3 +11,5 @@ by putting in a graph the history of commits and creation of branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 a new commit with all changes made within the branches are combined.
 we represent them the way we do to simbolize the new commit as the end of the branch.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros:  automatic is less time consuming  cons:  you could end up with unwanted modifications in your code
