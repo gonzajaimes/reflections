@@ -11,3 +11,7 @@ I can fetch any changes on the remote and merge them with my changes on the mast
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By using a set of folders to keep track of versions and changes. 
 it would be easier to work with Git
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I´m not sure about those changes and want to test them and/or ask
+others for their oppinion before merging.
+This approach keeps the master clean and less prone to errors.
